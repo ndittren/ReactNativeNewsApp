@@ -1,3 +1,9 @@
 {
-  "devToolsPort": 19002
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 5103,
+  "expoServerNgrokUrl": "https://md-kua.anonymous.newsapp.exp.direct",
+  "packagerNgrokUrl": "https://packager.md-kua.anonymous.newsapp.exp.direct",
+  "ngrokPid": 5117
 }

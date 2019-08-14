@@ -1,4 +1,8 @@
 {
-  "name": "Demo",
-  "displayName": "Demo"
+  "expo": {
+    "name": "NewsApp",
+    "slug": "NewsApp",
+    "sdkVersion": "34.0.0",
+    "privacy": "public"
+  }
 }
